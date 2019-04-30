@@ -75,15 +75,10 @@ pip install mysqlclient
 * [Google Classroom API](https://www.djangoproject.com/) - The Google Classroom API 
 
 
-## Authors
+## Contibutors
 
 * **Patiphan Pinkeaw** - *Initial work* - [Patiphan Pinkeaw](https://github.com/boycatbay)
 * **Thanapong Maleewan** - *Initial work* - [Thanpong Maleewan](https://github.com/poom12452)
 
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
